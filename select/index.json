@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "7days",
+  "base_artist": "miwa",
+  "createdAt": "2026-02-10T10:36:46.346702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "7days To The  Wolves",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/01_7days_To_The_Wolves_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "7days Tension",
+      "artist": "Weeekly",
+      "has_synced": true,
+      "path": "select/02_7days_Tension_Weeekly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "a 7days wonder",
+      "artist": "Ling tosite sigure",
+      "has_synced": false,
+      "path": "select/03_a_7days_wonder_Ling_tosite_sigure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "7days Tension (Instrumental)",
+      "artist": "Weeekly",
+      "has_synced": true,
+      "path": "select/04_7days_Tension_(Instrumental)_Weeekly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "7days Tension (Inst.) (Instrumental)",
+      "artist": "Weeekly",
+      "has_synced": true,
+      "path": "select/05_7days_Tension_(Inst.)_(Instrumental)_Weeekly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "7Days",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/06_7Days_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "7Days",
+      "artist": "(G)I‐DLE",
+      "has_synced": true,
+      "path": "select/07_7Days_(G)I‐DLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "a 7days wonder",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/08_a_7days_wonder_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "7Days (7Days)",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/09_7Days_(7Days)_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "7days",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/10_7days_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ayo Maff - 7Days [Official Visualizer]",
+      "artist": "Ayo Maff",
+      "has_synced": true,
+      "path": "select/11_Ayo_Maff_-_7Days_[Official_Visualizer]_Ayo_Maff.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "7days",
+      "artist": "emon(Tes.) feat. 巡音ルカ",
+      "has_synced": false,
+      "path": "select/12_7days_emon(Tes.)_feat._巡音ルカ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "7days Tension (텐션업)",
+      "artist": "Weeekly",
+      "has_synced": true,
+      "path": "select/13_7days_Tension_(텐션업)_Weeekly.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "7days",
+      "artist": "idle",
+      "has_synced": true,
+      "path": "select/14_7days_idle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "7days",
+      "artist": "miwa",
+      "has_synced": false,
+      "path": "select/pl_01_7days_miwa.txt"
+    }
+  ]
+}
